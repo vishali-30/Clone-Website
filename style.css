@@ -136,6 +136,9 @@ span{
    color: #53b4ed;
    cursor: pointer;
 }
+span:hover{
+    text-decoration: underline;
+}
 .hello{
     height: 400px;
     width: 400px;
